@@ -1,0 +1,2 @@
+# trimind
+Trimind Landing page
